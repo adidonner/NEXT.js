@@ -61,6 +61,11 @@ export type CustomerCouponPurchase = {
   // אולי גם מחיר ששולם, כמות שנרכשה באותה טרנזקציה, וכו'
 };
 
+export interface Revenue {
+  month: string;
+  revenue: number;
+}
+
 
 // export type Invoice = {
 //   id: string;
