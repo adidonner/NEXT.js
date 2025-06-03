@@ -112,12 +112,6 @@ const invoices = [
     date: '2023-07-16',
   },
   {
-    customer_id: customers[0].id,
-    amount: 666,
-    status: 'pending',
-    date: '2023-06-27',
-  },
-  {
     customer_id: customers[3].id,
     amount: 32545,
     status: 'paid',

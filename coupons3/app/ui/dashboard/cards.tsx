@@ -9,6 +9,7 @@ import { lusitana } from '@/app/ui/fonts';
 const iconMap = {
   collected: BanknotesIcon,
   customers: UserGroupIcon,
+  companies: UserGroupIcon,
   pending: ClockIcon,
   invoices: InboxIcon,
 };
